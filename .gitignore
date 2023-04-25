@@ -1,0 +1,26 @@
+# Created by https://www.toptal.com/developers/gitignore/api/powershell
+# Edit at https://www.toptal.com/developers/gitignore?templates=powershell
+
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+*.dll
+
+# End of https://www.toptal.com/developers/gitignore/api/powershell
+
+### Microsoft Excel ###   
+
+# Excel temporary
+~$*.xls*
+
+# Excel Backup File
+*.xlk
+
+# Excel files in general
+*.xlsx
+*.xls
+
+# The export folder an it's contents
+export/
